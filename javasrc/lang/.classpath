@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry
+        excluding="loops/|ByteAdd2.java|AddException.java|CastingDemo.java|ChangeArrayLength.java|CommentBug.java|CompileError.java|ConsRecurs.java|Constructors.java|ImportConflict.java|InitializersDemo.java|InnerMethods.java|InterfaceNoConstructor.java|NoLocalStatics.java|OverLoadReturn.java|PrivProt.java|ProtectedClass.java|ReturnType.java|ShowInitializers.java|Switch.java|SwitchByte.java|TryStealingInnerClass.java|Unnamed.java|EuroLanguage.java|ImportNonPublic.java|UsePackage.java"
+        kind="src" path=""/>
+    <classpathentry kind="src" path="loops"/>
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+    <classpathentry kind="lib" path="/Volumes/Users/ian/lib/darwinsys.jar"/>
+    <classpathentry kind="output" path=""/>
+</classpath>

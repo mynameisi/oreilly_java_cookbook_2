@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="xerces.jar/|db2jcc.jar/|db2jcc_license_cu.jar/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="ant-contrib-0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="ant-junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="antlr.jar"/>
+	<classpathentry exported="true" kind="lib" path="btree.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="darwinsys.jar"/>
+	<classpathentry exported="true" kind="lib" path="j2ee.jar"/>
+	<classpathentry exported="true" kind="lib" path="jdo.jar"/>
+	<classpathentry exported="true" kind="lib" path="jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="jdori.jar"/>
+	<classpathentry exported="true" kind="lib" path="jdori-enhancer.jar"/>
+	<classpathentry exported="true" kind="lib" path="jta.jar"/>
+	<classpathentry exported="true" kind="lib" path="junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="log4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="mm.mysql-2.0.11-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="postgresql.jar"/>
+	<classpathentry exported="true" kind="lib" path="servletapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="xalan.jar"/>
+	<classpathentry kind="lib" path="xerces.jar"/>
+	<classpathentry kind="lib" path="db2jcc.jar"/>
+	<classpathentry kind="lib" path="db2jcc_license_cu.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

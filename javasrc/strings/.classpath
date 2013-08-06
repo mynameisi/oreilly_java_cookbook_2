@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="WolfInStringsClothing.java" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Volumes/Users/ian/lib/darwinsys.jar"/>
+	<classpathentry kind="src" path="/1.5compile-only-api"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

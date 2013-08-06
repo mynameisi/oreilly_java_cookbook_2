@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="interface/|inherit/|shapes/|Clone0.java|SingletonCheat*.java" kind="src" path=""/>
+	<classpathentry kind="src" path="interface"/>
+	<classpathentry kind="src" path="inherit"/>
+	<classpathentry kind="src" path="shapes"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/darwinsys-api"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
